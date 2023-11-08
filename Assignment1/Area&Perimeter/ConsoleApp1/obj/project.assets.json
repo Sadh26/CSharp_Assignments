@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sadhana.suresh\\Desktop\\C#\\Assignment 1\\Area&Perimeter\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\sadhana.suresh\\Desktop\\C# Assignments\\CSharp_Assignments\\Assignment1\\Area&Perimeter\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\sadhana.suresh\\Desktop\\C#\\Assignment 1\\Area&Perimeter\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "C:\\Users\\sadhana.suresh\\Desktop\\C# Assignments\\CSharp_Assignments\\Assignment1\\Area&Perimeter\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\sadhana.suresh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sadhana.suresh\\Desktop\\C#\\Assignment 1\\Area&Perimeter\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\sadhana.suresh\\Desktop\\C# Assignments\\CSharp_Assignments\\Assignment1\\Area&Perimeter\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sadhana.suresh\\AppData\\Roaming\\NuGet\\NuGet.Config"
