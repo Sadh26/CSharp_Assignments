@@ -13,7 +13,7 @@ public class AreaPerimeter{
         Console.WriteLine(" 1.Square \n 2.Recatngle \n 3.Circle \n 4.Triangle \n");
         Console.WriteLine("Type the name of the shape you want to calculate:");
         string choice = Console.ReadLine().ToLower().Trim();
-
+  
         if(choice == "square"){
             SquareAreaPerimeter();
         }
